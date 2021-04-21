@@ -1,0 +1,6 @@
+Python 3 & Python 2
+
+requests
+colorama
+thread
+time
